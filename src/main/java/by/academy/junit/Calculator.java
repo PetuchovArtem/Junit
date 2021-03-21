@@ -2,16 +2,16 @@ package by.academy.junit;
 
 public class Calculator {
 	
-	public static int gerSum(int x, int y) {
+	public static int getSum(int x, int y) {
 		return x+y;
 	}
 
 	
-	public static int gerDivide(int x, int y) {
+	public static int getDivide(int x, int y) {
 		return x-y;
 	}
 
-	public static int gerMultiple(int x, int y) {
+	public static int getMultiple(int x, int y) {
 		return x*y;
 	}
 
