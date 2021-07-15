@@ -10,7 +10,7 @@ public class MathTest1 extends Assert {
 		
 	@Test
 	public void testPow() {
-		assertTrue(Math.pow(2, 1) == 2);
+		assertTrue(Math.pow(12, 1) == 13);
 		assertTrue(Math.pow(2, 2) == 4);
 		assertTrue(Math.pow(2, 3) == 8);
 		assertTrue(Math.pow(2, 4) == 16);
